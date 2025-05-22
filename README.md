@@ -13,3 +13,17 @@ Course designed to teach the fundamentals of machine learning, from regression a
 4. Learning Paradigms
 5. Machine Learning Applications
 6. Setting up development environment
+
+
+### [Week 2](/week_02/)
+
+#### Topics
+
+1. Supervised Learning (A Deep Dive)
+2. Machine Learning Life Cycle
+3. Data Splits
+4. Model Generalization
+5. Bias-Variance Tradeoff
+6. Cross validation
+7. Linear Regression
+8. House Price Prediction Example
