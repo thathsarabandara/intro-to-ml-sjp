@@ -26,4 +26,33 @@ Course designed to teach the fundamentals of machine learning, from regression a
 5. Bias-Variance Tradeoff
 6. Cross validation
 7. Linear Regression
-8. House Price Prediction Example
+
+
+### [Week 3](/week_03/)
+
+#### Topics
+1. Exploratory Data Analysis (EDA)
+    - Univariate Analysis
+    - Bivariate Analysis
+2. Feature Importance - Correlation 
+    - Heatmaps
+3. Handling Categorical Features
+    - One-Hot Encoding
+4. House Price Prediction Example
+
+
+### [Week 4](/week_04/)
+
+#### Topics
+
+1. Logistic Regression
+2. Feature Importance - Mutual Information Score
+3. Evaluation Matrics
+    - Accuracy
+    - Precision
+    - Recall
+    - ROC Curves & AUC
+4. Scaling Data
+    - Standardization
+    - Normalization
+5. Practical Examples
