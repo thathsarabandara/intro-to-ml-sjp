@@ -1,4 +1,4 @@
-# Introduction to Machine Learning SJB
+# Introduction to Machine Learning SJP (aka USJ Srilanka)
 
 Course designed to teach the fundamentals of machine learning, from regression and classification to deployment and an introduction to deep learning.
 
