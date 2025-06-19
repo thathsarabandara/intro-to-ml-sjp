@@ -46,12 +46,13 @@ Course designed to teach the fundamentals of machine learning, from regression a
 #### Topics
 
 1. Logistic Regression
-2. Feature Importance - Mutual Information Score
-3. Evaluation Matrics
+2. Evaluation Matrics
     - Accuracy
     - Precision
     - Recall
     - ROC Curves & AUC
+    - PR Curves & AU-PRC
+3. Dummy Models
 4. Scaling Data
     - Standardization
     - Normalization
