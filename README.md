@@ -57,3 +57,18 @@ Course designed to teach the fundamentals of machine learning, from regression a
     - Standardization
     - Normalization
 5. Practical Examples
+
+
+### [Week 5](/week_05/)
+
+1. Decision Trees
+    - CART
+    - Gini Impurity & Gini Gain (aka Information Gain from Gini Impurity)
+    - MAE Impurity & Variance Reduction
+2. Overfitting
+3. HyperParameter Tuning
+4. Grid Search
+5. Ensembling
+    - Bagging (aka Bootstrapping)
+    - Boosting
+    - Stacking
